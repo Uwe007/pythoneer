@@ -40,6 +40,8 @@ d10="dimension10" # lookup string
 quotes='"'
 dp=":"
 comma=","
+end="</"
+
 # class="timeframe timeframe-no-animation" data-cutoff="2018-02-16T22:59Z" data-cutoff-human="23:59" data-timeframe-delay="0"></p>
 #"name":"SAMSUNG Galaxy J3 2017 16 GB Zwart","id":"1527884","price":"169.00","brand":"SAMSUNG","ean":"8806088917146","dimension25":"InStock","dimension26":1.99,"dimension24":21.00,"category":"Telecom & Navigatie","dimension9":"Mobiele telefoons","dimension10":"Smartphones"};</script><div class="product-wrapper" data-age-rating="0" data-gtm-impression-event="EEC_PRODUCT_IMPRESSION" data-gtm-impression-event-ext="product1527884" data-modelnumber="1527884" data-reco-pid="MMNL1527884">
 
